@@ -5,6 +5,10 @@ public class Runner {
         System.out.println("değişiklik 1");//ws
 
 
+        //versiyon 2
+        System.out.println("değişiklik yaptım");
+
+
 
 
 
