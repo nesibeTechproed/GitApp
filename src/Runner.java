@@ -24,6 +24,9 @@ public class Runner {
         //versiyon 7
 
 
+        //githubda değişiklik yaptım
+
+
 
     }
 }
